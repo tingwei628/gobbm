@@ -1,0 +1,2 @@
+# gobbm
+bomberman in go
