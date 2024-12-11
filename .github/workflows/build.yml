@@ -1,5 +1,6 @@
 name: gobbm-build
-# on:
+on:
+  workflow_dispatch:
 #   push:
 #   pull_request:
 #     branches:
