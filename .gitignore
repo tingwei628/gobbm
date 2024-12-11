@@ -8,3 +8,7 @@
 # Testing
 *.test
 *.tmp
+.vscode/
+.idea
+# Go workspace file
+go.work
